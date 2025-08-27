@@ -33,7 +33,7 @@ export const ClientsStats = () => {
                 src={logo}
                 alt={`Partner ${index + 1}`}
                 className="img-fluid"
-                style={{ height:"110px" }}
+                style={{ height:"75px" ,width:"150px", borderRadius:"10px"}}
               />
             </div>
           ))}
